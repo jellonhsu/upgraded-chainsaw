@@ -1,7 +1,12 @@
 #include <stdio.h>
 
+#define int u32
+
 int main(void)
 {
-  printf("hello, git!\n");
+  printf("hello, github!\n");
+  // this is  a comment
+  printf("hello, world!\n");
+  
   return 0;
 }
